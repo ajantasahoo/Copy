@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: commandservice
-          image: ajantasahoo/Copy/commandservice:latest
+          image: ajantasahoo/commandservice:latest
 ---
 apiVersion: v1
 kind: Service
